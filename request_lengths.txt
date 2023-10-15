@@ -1,0 +1,7 @@
+Week1 Scrum Report
+
+What have I worked on?
+- I have been trying different analysis using pandas and familiarizing myself with how to work with the dataset. I am also reading on the 311 service and thinking of possible angles to explore for the extensiuon project.
+
+What will I be working on next?
+- I will be working on directly answering Average goal resolution time by QUEUE and Average goal resolution time by QUEUE and neighborhood.
